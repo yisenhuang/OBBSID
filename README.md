@@ -2,6 +2,8 @@
 
 **OBBSID** (OBB-based Surgical Instrument Detection) is a large-scale benchmark dataset for oriented bounding box (OBB) detection of surgical instruments in minimally invasive surgery (MIS).
 
+<img width="285" height="160" alt="1" src="https://github.com/user-attachments/assets/58a766d5-96cb-4388-90cf-ce3a9982f991" />
+
 ### Dataset Statistics
 
 | Item | Details |
